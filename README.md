@@ -49,4 +49,6 @@ Pablo Bianciotto.
 License
 -------
 
+Copyright © 2013 Pablo Bianciotto.
+
 Spanish Pluralizer is a free software, and may be redistributed under the terms specified in the MIT-LICENSE file.
