@@ -2,8 +2,8 @@ Spanish Pluralizer
 =========
 
 Spanish Pluralizer is a gem for converting singular spanish nouns into plural.
-It works by adding the following methods to String: [:pluralize_spanish, :acute, :unacute, :is_acute?].
-Fails with monosyllables and rule exceptions like "régimen" => "regímenes".
+It works by adding the following methods to String: [:pluralize_spanish, :spanish_pluralizer_acute, :spanish_pluralizer_unacute, :spanish_pluralizer_is_acute?].
+It can handle diphthong, hiatus and adding or removing acutes, but fails with monosyllables and rule exceptions like "régimen" => "regímenes" and "espécimen => especímenes".
 
 Usage
 ------------
