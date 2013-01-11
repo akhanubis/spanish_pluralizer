@@ -1,8 +1,8 @@
 ﻿# encoding: utf-8
-require '../lib/spanish_pluralizer'
+require 'spanish_pluralizer'
 require 'test/unit'
 
-class SpanishPluralizerTest < Test::Unit::TestCase
+class TestSpanishPluralizer < Test::Unit::TestCase
 
   def test_plurals_should_be_right
     {
