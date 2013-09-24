@@ -1,5 +1,9 @@
 Spanish Pluralizer
 =========
+[![Gem Version][GV img]][Gem Version]
+[Gem Version]: https://rubygems.org/gems/spanish_pluralizer
+[GV img]: https://badge.fury.io/rb/spanish_pluralizer.png
+
 
 Spanish Pluralizer is a gem for converting singular spanish nouns into plural.
 It works by adding the following methods to String: [:pluralize_spanish, :spanish_pluralizer_acute, :spanish_pluralizer_unacute, :spanish_pluralizer_is_acute?].
